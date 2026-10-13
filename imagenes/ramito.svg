@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="title">
+  <title id="title">Ramo de flores</title>
+  <rect width="400" height="300" rx="24" fill="#fff1df"/>
+  <path d="M195 280 144 136m52 144 8-150m-8 150 67-143m-67 143-99-83m99 83 115-80" fill="none" stroke="#5e9b69" stroke-linecap="round" stroke-width="9"/>
+  <path d="m157 229 38 71 45-74z" fill="#e6a66c"/>
+  <g fill="#ef7c9b">
+    <circle cx="132" cy="128" r="20"/><circle cx="155" cy="128" r="20"/><circle cx="143" cy="108" r="20"/><circle cx="143" cy="148" r="20"/>
+  </g>
+  <circle cx="143" cy="128" r="11" fill="#ffd56e"/>
+  <g fill="#a982d5">
+    <circle cx="183" cy="116" r="19"/><circle cx="205" cy="116" r="19"/><circle cx="194" cy="97" r="19"/><circle cx="194" cy="135" r="19"/>
+  </g>
+  <circle cx="194" cy="116" r="10" fill="#ffd56e"/>
+  <g fill="#f4a64e">
+    <circle cx="258" cy="130" r="20"/><circle cx="280" cy="130" r="20"/><circle cx="269" cy="110" r="20"/><circle cx="269" cy="150" r="20"/>
+  </g>
+  <circle cx="269" cy="130" r="11" fill="#fff0a5"/>
+  <path d="M174 190c-28-25-51-3-29 13 19 13 35 2 29-13Zm52-11c27-28 50-8 30 10-17 14-35 6-30-10Zm-76 55c-29-23-50 1-27 16 20 12 35 0 27-16Zm106-9c25-27 49-9 31 10-16 15-35 8-31-10Z" fill="#79b77e"/>
+</svg>

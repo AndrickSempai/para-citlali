@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="title">
+  <title id="title">Héroe original de pixel art</title>
+  <rect width="400" height="300" fill="#d9efff"/>
+  <rect y="216" width="400" height="84" fill="#9ec8e8"/>
+  <g fill="#bddcf0">
+    <rect x="24" y="137" width="47" height="79"/>
+    <rect x="78" y="111" width="58" height="105"/>
+    <rect x="278" y="128" width="48" height="88"/>
+    <rect x="333" y="95" width="48" height="121"/>
+  </g>
+  <g fill="#fff3be">
+    <rect x="91" y="126" width="9" height="9"/><rect x="111" y="126" width="9" height="9"/>
+    <rect x="91" y="148" width="9" height="9"/><rect x="111" y="148" width="9" height="9"/>
+    <rect x="346" y="110" width="9" height="9"/><rect x="366" y="110" width="9" height="9"/>
+    <rect x="346" y="132" width="9" height="9"/><rect x="366" y="132" width="9" height="9"/>
+  </g>
+  <g shape-rendering="crispEdges">
+    <path fill="#315b9c" d="M154 155h92v100h-92z"/>
+    <path fill="#24467c" d="M139 175h15v64h-15zm107 0h15v64h-15z"/>
+    <path fill="#e64f5b" d="M162 67h76v70h-76z"/>
+    <path fill="#b9364d" d="M162 67h14v70h-14zm62 0h14v70h-14z"/>
+    <path fill="#273e69" d="M174 94h18v11h-18zm34 0h18v11h-18z"/>
+    <path fill="#fff6df" d="M178 94h10v6h-10zm34 0h10v6h-10z"/>
+    <path fill="#4b75b4" d="M124 166h30v18h-30zm122 0h30v18h-30z"/>
+    <path fill="#f0bd62" d="M190 171h20v20h-20z"/>
+    <path fill="#fff0bf" d="M198 175h5v12h-5zm-4 4h13v5h-13z"/>
+    <path fill="#e64f5b" d="M169 241h31v36h-31zm45 0h31v36h-31z"/>
+    <path fill="#243f70" d="M158 270h44v16h-44zm53 0h44v16h-44z"/>
+    <path fill="#4b75b4" d="M116 180h20v17h-20zm148 0h20v17h-20z"/>
+    <path fill="#e64f5b" d="M116 196h20v17h-20zm148 0h20v17h-20z"/>
+    <path fill="#f1c26f" d="M77 66h8v8h-8zm237 31h8v8h-8zM53 164h8v8h-8z"/>
+  </g>
+  <path d="M0 286h400" stroke="#759fc2" stroke-width="4"/>
+</svg>
